@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sideralamity" target="blank"><img src="https://img.shields.io/twitter/follow/sideralamity?logo=twitter&style=for-the-badge" alt="sideralamity" /></a> </p>
 
-- 🔭 I’m currently working on [Project Elixir](https://github.com/eliascmendhes/Inmana-Elixir)
-
 - 🌱 I’m currently learning **REACT NATIVE, JAVA, PYTHON.**
 
 - 🔭 I’m currently working on [Project CRUD_API](https://github.com/eliascmendhes/Crud-Front-End)
