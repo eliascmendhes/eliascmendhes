@@ -1,28 +1,29 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">I am Web Developer</h3>
+<h1 align="center">Welcome</h1>
 
-- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT.**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliascmendhes&show_icons=true&theme=radical)](https://github.com/eliascmendhes/github-readme-stats)
 
-- 📫 How to reach me **eliascamilo70@outlook.com**
+## Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/elias-c-341aa1162/](https://www.linkedin.com/in/elias-c-341aa1162/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliascmendhes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact **Error on line 18? But line 18 is perfect.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/elias-c-341aa1162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/eliascmendhes" height="30" width="40" /></a>
-</p>
+## Minhas redes sociais
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' height='30'>](https://twitter.com/SideralAmity) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/elias-c-341aa1162/)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliascmendhes&show_icons=true&locale=en&layout=compact" alt="eliascmendhes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliascmendhes&show_icons=true&locale=en" alt="eliascmendhes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliascmendhes&" alt="eliascmendhes" /></p>
+## Repositórios Importantes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliascmendhes&repo=Bikcraft---Project&theme=radical)](https://github.com/eliascmendhes/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliascmendhes&repo=Detec-o-de-Faces-com-Java-e-OpenCV&theme=radical)](https://github.com/eliascmendhes/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliascmendhes&repo=Crud-Front-End&theme=radical)](https://github.com/eliascmendhes/github-readme-stats)
 
  ![Snake animation](https://github.com/eliascmendhes/eliascmendhes/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-
-  
