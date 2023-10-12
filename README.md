@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">Desenvolvedor Front End | JavaScript | React | Node.js</h3>
+# 👋 Hi there, I'm Elias!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliascmendhes&label=Profile%20views&color=0e75b6&style=flat" alt="eliascmendhes" /> </p>
+<h3 align="center">🚀 Desenvolvedor Web & Software | Especialista em JavaScript, React e Node.js 🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elias-c-341aa1162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elias-c-341aa1162/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=eliascmendhes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views count" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliascmendhes&show_icons=true&locale=en&layout=compact" alt="eliascmendhes" /></p>
+---
+
+### 🤝 Connect with me:
+
+[<img align="left" alt="LinkedIn | Elias" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://linkedin.com/in/elias-c-341aa1162/)
+
+<br />
+
+---
+
+### 📊 GitHub Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliascmendhes&show_icons=true&locale=en&layout=compact" alt="Elias's GitHub Language Stats" />
+</p>
+
+---
+
