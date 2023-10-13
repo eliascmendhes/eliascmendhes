@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Elias!
 
-<h3 align="center">🚀 Desenvolvedor Web & Software | Especialista em JavaScript, React e Node.js 🚀</h3>
+<h3 align="center">🚀 Desenvolvedor Web & Software | JavaScript, React e Node.js 🚀</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eliascmendhes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views count" />
