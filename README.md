@@ -1,26 +1,15 @@
-# 👋 Hi there!
+# Elias
+### Atualmente, estou dedicado ao estudo e aprimoramento em Desenvolvimento de Software e Web.
 
-<h3 align="center">🚀 Desenvolvedor Web & Software | JavaScript, React e Node.js 🚀</h3>
+⤷ Sou Técnico em Informática pelo Instituto Federal do Maranhão, com ênfase no estudo de programação, tanto para software quanto para a web. Tenho experiência em linguagens como Python, Java, JavaScript. Atualmente, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eliascmendhes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views count" />
-</p>
+ <a aligh="left" href="https://https://portfolio-eliascmendhes.vercel.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/eliascmendhes" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
----
+⚐ Based in São Luís, Maranhão.
 
-### 🤝 Connect with me:
+ϟ Currently Brasil
 
-[<img align="left" alt="LinkedIn | Elias" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://linkedin.com/in/elias-c-341aa1162/)
+ϟ Recently Estudando e desenvolvendo projetos pessoais.
 
-<br />
-
----
-
-### 📊 GitHub Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliascmendhes&show_icons=true&locale=en&layout=compact" alt="Elias's GitHub Language Stats" />
-</p>
-
----
-
+ ## Skills
+   <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a> <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/premiere.svg" alt="Premiere Pro" width="25" height="25" /></a> <a href="https://www.adobe.com/products/xd/fonts/xd.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/xd.svg" alt="XD" width="25" height="25" /></a> 
