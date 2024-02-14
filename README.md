@@ -1,7 +1,7 @@
 # Elias
 ### Desenvolvimento de Software e Web.
 
-⤷  Sou Técnico em Informática pelo Instituto Federal do Maranhão, com ênfase no estudo de programação, tanto para software quanto para a web. Tenho experiência em linguagens como Python, Java, JavaScript. Atualmente, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia.
+⤷  Sou Técnico em Informática pelo Instituto Federal do Maranhão, com ênfase no estudo de programação, tanto para software quanto para a web. Atualmente, estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia.
 
  <a aligh="left" href="https://www.linkedin.com/in/eliascmendhes" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
