@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Elias!</h1>
-  <h3>Desenvolvedor Full Stack | Entusiasta de Tecnologia</h3>
+  <h3>Programador | Entusiasta de Tecnologia</h3>
 </div>
 
 ![Divisor](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -14,7 +14,7 @@ const elias = {
         current: "Bacharelado Interdisciplinar em Ciência e Tecnologia",
     },
     location: "São Luís, Maranhão 🌴",
-    focus: "Desenvolvimento Full Stack",
+    focus: "Programação",
     currentStatus: "Estudando e desenvolvendo projetos pessoais"
 };
 ```
